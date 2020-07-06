@@ -5,6 +5,16 @@ h1{
 	text-align: center;
 	margin-buttom: 20px;
 }
+.content{
+	padding: 5px;
+		border: none;
+		background-color: gray;
+		font-family: Helvetica;
+		color: black;
+		margin: 0px;
+		height: 200px;
+		overflow: auto;
+}
 .box1{
 
 	float: right;
